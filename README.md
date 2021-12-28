@@ -1,7 +1,5 @@
 # ros_project_1st
 
-
-### 주제선정
 ## 프로젝트 주제 (최대한 배운걸로 혼자 할 수 있는 주제로 선택)
 - 첫번째 주제: 앞, 양옆이 막힌 골목에서 180도 턴 하여 나온다음 색깔인식 하여 멈추기.
 - 두번째 주제: 미로찾기
@@ -13,7 +11,7 @@
 ## Youtube 영상등록
 - 터틀봇 180도 턴https://youtu.be/6oxy59a_v6s
 - 미로찾기x들어가기https://youtu.be/_8j3erZkA7M
-- 
+
 ## 이미지 촬영,등록
 ![Screenshot_20211229-024444_Gallery](https://user-images.githubusercontent.com/90584094/147593139-a2744920-e74a-4ec2-98d4-793978e64e75.jpg)
 ![Screenshot_20211229-024450_Gallery](https://user-images.githubusercontent.com/90584094/147593144-7b9066c6-256b-456a-ada8-3f8ecdb02858.jpg)
